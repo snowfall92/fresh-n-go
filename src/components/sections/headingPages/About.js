@@ -4,15 +4,28 @@ export default function About() {
             <section className="hero-text">
                 <h1>Fresh N Go</h1>
                 <h2>Health is Wealth</h2>
-                <p className="about-subtext">Born from Local Passion. Fresh N Go is the result of genuine dedication to healthy living. Our founders understand the significance of nourishing your body with quality ingredients that leave you feeling light and vibrant. Experience the perfect balance of flavor and nutrition at our fast-service restaurant, designed to inspire a healthy lifestyle without compromising on taste or satisfaction.
+                <p className="about-subtext">Founded by Escondido locals,
+                 Esvaidy Flores and Alma Packer,
+                 Fresh N Go isn't just a restaurant
+                  it's a passion project fueled by their genuine
+                  commitment to their community's well-being.
 
-                 This endeavor is a labor of love, fueled by the genuine wish to make a positive impact on our community.
+       Esvaidy and Alma understand the importance of nourishing your body
+       with fresh, high-quality ingredients that leave you feeling
+       energized and vibrant. That's why Fresh N Go offers a fast-casual 
+       dining experience unlike any other, where vibrant flavors and 
+       exceptional nutrition go hand in hand.
 
-                 Craving something new, guilt-free, and energizing?
+       More than just a business, Fresh N Go is a labor of love.
+       Esvaidy and Alma are driven by a desire to see their
+       neighbors and friends thrive with the power of healthy,
+          transformative food. They believe that making healthy
+          choices shouldn't mean sacrificing taste or satisfaction.
 
-                 Step into Fresh N Go and savor the difference that quality,
-
-                 fresh food can make in your day!</p>
+       Craving something exciting, guilt-free, and energizing?
+        Step into Fresh N Go, located in Escondido, 
+        San Diego County, and experience the difference that fresh,
+         local ingredients can make in your day.</p>
             </section>
 
             <section className="double-image">

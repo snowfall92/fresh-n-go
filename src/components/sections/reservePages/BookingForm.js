@@ -73,7 +73,7 @@ export default function ReservationForm(props) {
         <label htmlFor="phonenum">Phone Number</label> <br></br>
         <input
           type="tel"
-          id="phonenum"
+          id="phonenumber"
           placeholder="(xxx)-xxx-xxxx"
           value={tel}
           required

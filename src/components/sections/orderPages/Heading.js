@@ -9,6 +9,7 @@ export default function Heading() {
       ></img>
       <div className="reserve-header-text">
         <h1>Order Online</h1>
+        
       </div>
     </header>
   );

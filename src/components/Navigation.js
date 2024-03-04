@@ -22,7 +22,7 @@ export default function Navigation(props) {
       </Link>
       <a
         className="hover-effect"
-        href={require("../assets/menu.webp")}
+        href={require("../assets/Fresh N Go - Menu.pdf")}
         target="_blank"
         rel="noreferrer"
       >
