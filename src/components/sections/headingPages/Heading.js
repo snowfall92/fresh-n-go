@@ -1,4 +1,6 @@
 import {Link} from 'react-router-dom';
+import React from 'react';
+
 export default function Heading() {
     return (
         <header>
@@ -24,8 +26,8 @@ Join us today and experience the Fresh N Go difference!</p>
                 </section>
 
                 <section className="hero-image">
-                    <img src={require('../../../assets/food/food1.png')} alt="Little Lemon restaurant cuisine"></img>
-                </section>
+  <img src={require('../../../assets/food/food5.jpeg')} alt="Little Lemon restaurant cuisine" controls autoplay muted loop></img>
+</section>
             </article>
       </header>
     );

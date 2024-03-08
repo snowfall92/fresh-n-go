@@ -34,7 +34,7 @@ export default function Navigation(props) {
       <Link className="hover-effect" to="/order">
         <h1>Order</h1>
       </Link>
-      <Link className="hover-effect" to="/login">
+      <Link className="hover-effect" to="/Login">
         <h1>Login</h1>
       </Link>
     </menu>

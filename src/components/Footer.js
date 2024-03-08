@@ -5,7 +5,7 @@ export default function Footer() {
       <menu>
         <li className="img-footer">
           <img
-            src={require("../assets/footer-logo.png")}
+            src={require("../assets/footer-logo.jpg")}
             alt="Little Lemon logo"
           ></img>
         </li>
@@ -47,6 +47,13 @@ export default function Footer() {
         <li>
           <h1 className="footer-header">Connect</h1>
           <ul className="footer-links">
+          <a
+              href="https://www.paypal.com/ncp/payment/B2KXZKWQTSG4G"
+              target="_blank"
+              rel="noreferrer"
+            >
+              PayPal Payment Link
+            </a>
             <a
               href="https://www.facebook.com/freshngo.official"
               target="_blank"
@@ -60,6 +67,14 @@ export default function Footer() {
               rel="noreferrer"
             >
               Instagram
+            </a>
+            
+            <a
+              href="https://steallarlink.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Web-Dev By SteallarLink
             </a>
           </ul>
         </li>

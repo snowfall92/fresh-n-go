@@ -34,8 +34,9 @@ So come on down and join the Fresh N Go family! We can't
                 </section>
 
                 <section className="hero-image">
-                    <img src={require('../../../assets/food/aboutus.webp')} alt="Little Lemon restaurant cuisine"></img>
+                    <img src={require('../../../assets/food/aboutus.jpg')} alt="Little Lemon restaurant cuisine"></img>
                 </section>
+                
             </article>
       </header>
     );
