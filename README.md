@@ -1,6 +1,6 @@
-<h1 align="center">Little Lemon Restaurant</h1>
+<h1 align="center">Fresh N Go</h1>
 
-<h2 align="center">A Front-end Restaurant App.</h2>
+<h2 align="center">A Front-end Restaurant App & Backend. (PayPal Integration)</h2>
 
 <br />
 <p align="center">
@@ -21,11 +21,11 @@
   <h3 align="center"><a href="https://little-lemon-restaurant-sumit-sharma-02.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
 
   <p align="center"> 
-    Little Lemon Restaurant, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
+    Fresh N Go Restaurant, a family run Healthy restaurant located in 258 E 2nd Ave,
+California. Please come and enjoy our wide selection of authentic Healthy Fresh N Go Bowls!
   </p>
   
-  ![little-lemon-restaurant-mockup](https://user-images.githubusercontent.com/52236473/221524124-f2ba25d6-4dd9-442f-9405-70f6a55da839.png)
-  
+  ![Fresh N Go]
 <br />
 
 ## Pages
@@ -54,7 +54,7 @@
 ## Quick Start
 
 ```shell
-$ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
+$ git clone https://github.com/snowfall92/Fresh-N-Go-
 $ cd little-lemon-restaurant
 $ npm install
 ```
